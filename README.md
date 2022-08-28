@@ -19,6 +19,14 @@ Write unit tests using Jest and e2e tests using cypress.
 
 You need to write code in TypeScript.
 
+We are using **NextJS** as frontend framework.
+
+The code is inside `otp_signup` directory.
+
+Make meaningful commits and meaningful README.
+
+Once you are done with the UI implementation, we will provide you with API endpoint.
+
 Code coverage must not fall below **98%**.
 
 You need to raise the PR if you want to submit the code.
